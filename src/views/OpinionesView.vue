@@ -2,7 +2,7 @@
     <div class="container">
         <div v-if="opiniones.length === 0"
             class="p-4 mb-4 text-sm text-red-700 bg-red-100 rounded-lg dark:bg-red-200 dark:text-red-800" role="alert">
-            <span class="font-medium">Aún no existen opiniones
+            <span class="font-medium">Aún no existen opiniones</span>
         </div>
         <ul>
             <ListadoOpinion 

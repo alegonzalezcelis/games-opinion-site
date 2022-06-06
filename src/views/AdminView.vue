@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import TablaOpinion from '@/components/TablaOpinion.vue'
+import TablaOpinion from '../components/TablaOpinion.vue'
 export default {
     name: 'AdminView',
     components: { TablaOpinion }
